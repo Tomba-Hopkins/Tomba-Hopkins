@@ -5,7 +5,7 @@
 
 - 🌾 I’m currently learning **Golang - CySec - BackEnd**
 
-- 👨‍💻 All of my projects are available at [https://tomba-hopkins.github.io/portfolio-tailwindcss/](https://tomba-hopkins.github.io/portfolio-tailwindcss/)
+- 👨‍💻 Rekayasa sebagian masih palsu : [https://tomba-hopkins.github.io/portfolio-tailwindcss/](https://tomba-hopkins.github.io/portfolio-tailwindcss/)
 
 - 💬 Ask me about **-Bakwan Jagung-**
 
