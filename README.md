@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomba-hopkins&label=Profile%20views&color=0e75b6&style=flat" alt="tomba-hopkins" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomba-hopkins&theme=dark" alt="tomba-hopkins" /></a> </p>
-
 - 🌾 I’m currently learning **Golang - CySec - BackEnd**
 
 - 👨‍💻 All of my projects are available at [https://tomba-hopkins.github.io/portfolio-tailwindcss/](https://tomba-hopkins.github.io/portfolio-tailwindcss/)
