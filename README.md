@@ -1,8 +1,6 @@
 <h1 align="center">Hi Friends❄️, I'am Tomba Hopkins - - 🚀 </h1>
 <h3 align="center">Aku adalah 🦖</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomba-hopkins&label=Profile%20views&color=0e75b6&style=flat" alt="tomba-hopkins" /> </p>
-
 - 🌾 I’m currently learning **Golang - CySec - BackEnd**
 
 - 👨‍💻 Rekayasa sebagian masih palsu : [https://tomba-hopkins.github.io/portfolio-tailwindcss/](https://tomba-hopkins.github.io/portfolio-tailwindcss/)
