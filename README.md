@@ -15,6 +15,7 @@
 <a href="https://www.codewars.com/users/AwikwokBas" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="sebasers" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/AwikwokBas" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="sebasers" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/TombaHK" target="blank"><img align="center" src="https://assets.tryhackme.com/img/THMlogo.png" alt="sebasers" height="30" width="40" /></a>
+<a href="https://play.picoctf.org/users/deSebasers" target="blank"><img align="center" src="https://play.picoctf.org/static/media/picoctf-logo.b48dd31601be6b1cd24a45e02067704f.svg" alt="sebasers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
